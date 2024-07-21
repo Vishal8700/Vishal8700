@@ -1,11 +1,7 @@
 # git_alien / Vishal8700
 
-## Development | Design
-
 > Coding & Develoopment
 > Design & Inspiration  
-
----
 
 ### About Me
 I'm Vishal from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and flutter, as well as work in WordPress.
@@ -22,4 +18,5 @@ I'm Vishal from India, and I do content on Design and Development. I really enjo
 ### Contact
 - **Location:** India
 - **Email:** git.alien@proton.me
-- 
+- **Linkedin** https://www.linkedin.com/in/vishal-kumar12432/
+  
