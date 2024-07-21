@@ -1,16 +1,30 @@
-## Hi there 👋
+# <Your Name> / <Your Username> 
 
-<!--
-**Vishal8700/Vishal8700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Development | Design
 
-Here are some ideas to get you started:
+> Coding & Tutorials  
+> Design & Inspiration  
+> UX & UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+I'm <Your Name> from <Your Country/Region>, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+
+### Skills and Experience
+- **React**
+- **React Native**
+- **HTML, CSS, JS**
+
+### Examples of Work
+<!-- Add screenshots or links to your work -->
+![Work Example 1](link-to-your-image)
+![Work Example 2](link-to-your-image)
+
+---
+
+### Contact
+- **Location:** <Your Location>
+- **Email:** <Your Email>
+- **YouTube:** [Your YouTube Channel](your-youtube-link)
+- **Twitter:** [Your Twitter Handle](your-twitter-link)
