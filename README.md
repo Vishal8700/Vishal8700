@@ -1,7 +1,7 @@
 
 ![_GitAlien-ezgif com-crop](https://github.com/user-attachments/assets/3ec0ad29-63ae-4326-8733-57a061a36d29)
 
-# git_alien / Vishal8700
+# Vishal Kumar
 
 > Coding & Develoopment
 > Design & Inspiration  
