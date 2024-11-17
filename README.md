@@ -7,7 +7,7 @@
 > Design & Inspiration  
 
 ### About Me
-I'm Vishal from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and flutter, as well as work in WordPress.
+I'm Vishal from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and flutter.
 
 ### Skills and Experience
 - React MERN Stack
